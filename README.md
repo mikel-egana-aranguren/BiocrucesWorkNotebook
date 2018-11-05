@@ -1,2 +1,2 @@
 # WorkNotebook
-My Wokr Notebook for recording meetings etc, using Sphinx and ReadTheDocs
+My Work Notebook for recording meetings etc, using Sphinx and ReadTheDocs.
