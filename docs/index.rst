@@ -4,7 +4,12 @@
    contain the root `toctree` directive.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
 
    posts/2018-10-01-Welcome-to-Biocruces
+   posts/2018-10-02-Reunion-luis-y-director-informatica
+   posts/2018-10-03-Meeting-with-mona-email-Mikel-Gallego-repositoriodatos-mariluz
+   posts/2018-10-05-qiime-MDPbiome
+   posts/2018-10-08-MDPbiome-shock-urgencias-metagenomica-obesidad
+   posts/2018-10-17-Reuniones-plataformas-grupos
+   posts/2018-10-18-Microbiologia-basurto-espiro-osasunet
+   posts/2018-10-31-Funding
