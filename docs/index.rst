@@ -5,6 +5,7 @@
 
 .. toctree::
 
+  posts/2018-11-08-REGIC-open-science
   posts/2018-11-05-Galaxy
   posts/2018-10-31-Funding
   posts/2018-10-18-Microbiologia-basurto-espiro-osasunet
